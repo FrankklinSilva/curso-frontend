@@ -1,4 +1,5 @@
 # Curso-Front-end
+#### EBAC 
 
 # GIT
 ## Conceitos de versionamento
@@ -30,6 +31,7 @@ git clone https://github.com/FrankklinSilva/curso-frontend.git
   - git add * (adiciona todos arquivos para subir)
   - git commit -m 'primeiro commit de código'
   - git push (enviar alterações para o repositorio)
+  - git pull (puxar / trazer alterações do Github para sua maquina)
 
 - Definindo configurações globais no git
   - git config --global user.nam e "Franklin Silva"
