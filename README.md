@@ -29,9 +29,10 @@ git clone https://github.com/FrankklinSilva/curso-frontend.git
   - git status (verifica os arquivos que foram modificados)
   - git add * (adiciona todos arquivos para subir)
   - git commit -m 'primeiro commit de código'
+  - git push (enviar alterações para o repositorio)
 
 - Definindo configurações globais no git
-  - git config --global user.name "Franklin Silva"
+  - git config --global user.nam e "Franklin Silva"
   - git config --global user.email "pdv.franksilva1@gmail.com"
 
   git config --get user.name (mostra nome do usuario atual no git)
