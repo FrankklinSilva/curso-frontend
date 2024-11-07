@@ -48,3 +48,15 @@ Informação de alteração
 
 ## Gitflow
 Fluxo do Git
+
+### Branchs
+são ramificações /versões paralelas
+
+- main / master (vai para produção, quando o projeto é publicado)
+- develop 
+- DOD Definition of Done: critérios de aceite
+- versionamento 1.0.0
+
+PASSOS para criar uma branch developer:
+1º use o comando: git checkout -b dev (com esse comando ele vai criar uma cópia da main para a branch dev)
+
